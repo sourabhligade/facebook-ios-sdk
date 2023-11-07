@@ -78,10 +78,14 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
 - You may limit your sharing of information with us by updating the Insights control in the developer tool
   `https://developers.facebook.com/apps/{app_id}/settings/advanced`.
 - If you use a Facebook integration, including to share information with us, you agree and confirm that you have
+ <<<<<<< sourabhligade-patch-4
   provided appropriate notice to and obtained the appropriate consent from your users
+      =======
+  provided appropriate  notice to and obtained the appropriate consent from your users
+  >>>>>>> main
   regarding such collection, use, and disclosure (including, at a minimum, through your privacy policy). You further
   agree that you will not share information with us about children under the age of 13.
-- You agree to comply with all applicable laws and regulations and also agree to our Terms
+- You agree to comply with all applicable laws and regulations and also agree to our Terms of Service
   <https://www.facebook.com/policies/>, including our Platform Policies <https://developers.facebook.com/policy/> and
   Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
