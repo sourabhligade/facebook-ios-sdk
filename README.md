@@ -81,7 +81,7 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
   provided appropriate  notice to and obtained the appropriate consent from your users
   regarding such collection, use, and disclosure (including, at a minimum, through your privacy policy). You further
   agree that you will not share information with us about children under the age of 13.
-- You agree to comply with all applicable laws and regulations and also agree to our Terms
+- You agree to comply with all applicable laws and regulations and also agree to our Terms of Service
   <https://www.facebook.com/policies/>, including our Platform Policies <https://developers.facebook.com/policy/> and
   Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
