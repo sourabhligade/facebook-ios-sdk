@@ -85,4 +85,4 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
   <https://www.facebook.com/policies/>, including our Platform Policies <https://developers.facebook.com/policy/> and
   Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
-By using the Facebook SDK for iOS you agree to these terms.
+By using the Facebook SDK for iOS, you agree to abide by these terms.
